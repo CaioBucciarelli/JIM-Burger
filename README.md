@@ -1,10 +1,10 @@
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
-- Nome
-- Nome
-- Nome
-- Nome
-- Nome
+- Caio de Conti Bucciarelli
+- Enzo Segatto Camilli Dias
+- Vitor Musolino Teixeira
+- Gabriel Garuti Paiva Cracco
+- Gabriel Guerreiro Escobosa Vallejo
 ## Tema do projeto
 Descrever o tema do projeto
