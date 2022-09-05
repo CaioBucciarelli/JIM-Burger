@@ -6,3 +6,5 @@ Projeto de um sistema full stack
 - Nome
 - Nome
 - Nome
+## Tema do projeto
+Descrever o tema do projeto
