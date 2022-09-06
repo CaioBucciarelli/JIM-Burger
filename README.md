@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/CaioBucciarelli/2emib-ac1)
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
@@ -7,4 +8,3 @@ Projeto de um sistema full stack
 - Gabriel Garuti Paiva Cracco - sócios
 - Gabriel Guerreiro Escobosa Vallejo - sócios
 ## Tema do projeto
-Descrever o tema do projeto
