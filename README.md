@@ -2,9 +2,9 @@
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
-- Caio de Conti Bucciarelli - líder
-- Enzo Segatto Camilli Dias - sócios
-- Vitor Musolino Teixeira - sócios
-- Gabriel Garuti Paiva Cracco - sócios
-- Gabriel Guerreiro Escobosa Vallejo - sócios
+- ` Caio de Conti Bucciarelli `
+- Enzo Segatto Camilli Dias 
+- Vitor Musolino Teixeira 
+- Gabriel Garuti Paiva Cracco 
+- Gabriel Guerreiro Escobosa Vallejo 
 ## Tema do projeto
