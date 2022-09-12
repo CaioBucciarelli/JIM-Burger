@@ -8,4 +8,4 @@ Projeto de um sistema full stack
 - Gabriel Garuti Paiva Cracco 
 - Gabriel Guerreiro Escobosa Vallejo 
 ## Tema do projeto
-fbfgfdgfdgdfg
+Site para um restaurante fictício
