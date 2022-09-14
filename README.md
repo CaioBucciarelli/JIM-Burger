@@ -8,4 +8,4 @@ Projeto de um sistema full stack
 - Gabriel Garuti Paiva Cracco 
 - Gabriel Guerreiro Escobosa Vallejo 
 ## Tema do projeto
-Site para um restaurante fictício
+O tema será um site de 6 páginas para um restaurante fictício, o objetivo do site será com que o cliente possa conhecer um pouco de nosso restaurante e consiga saber o que tem no cardápio a disposição!
