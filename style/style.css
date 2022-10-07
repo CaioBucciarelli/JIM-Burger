@@ -8,16 +8,34 @@ body {
 } */
 
 .nav-header {
-    margin-left: 60%;
+    margin-left: 57%;
 }
 
-a img {
-    width: 50px;
-    height: 50px;
+.bg-color {
+    background-color: #414141;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #FFA20E;
+}
+
+.cor {
+    background-color: #FFA20E;
+    color: #000;
+}
+
+.logo-site {
+    width: 100px;
+    height: 100px;
 }
 
 @media (max-width: 576px) {
     .nav-header {
-        margin-left: 10px;
+        margin-top: 20px;
+        margin-left: 20px;
     }
 }
