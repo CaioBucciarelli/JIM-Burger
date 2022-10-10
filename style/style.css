@@ -122,24 +122,75 @@ footer {
 /* Section Images */
 .section-images {
     display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .images-section {
-    width: 25%;
-    height:300px;
+    width: 22%;
+    height:200px;
+    padding-left: 40px;
 }
 
 /* ------------------------------------------------------------------------ PAG 2 -------------------------------------------------------------------------- */
+/* Section Image */
 .imagem-principal {
     background-image: url(/img/img-introducao.jpg);
     height: 40vh;
 }
 
-hr {
-    margin: 40px auto;
-    width: 80%;
+/* Section Texto */
+.section-texto {
+    margin-top: 40px;
+    margin-bottom: 60px;
 }
 
+hr {
+    color: #414141;
+}
+
+.parte-texto {
+    margin-top: 40px;
+}
+
+.parte-texto p {
+    margin-top: 20px;
+}
+
+/* ------------------------------------------------------------------------ PAG 3 -------------------------------------------------------------------------- */
+/* Section Cardápio */
+.section-cardapio {
+    width: 760px;
+    height: 380px;
+    margin: 60px auto;
+    background-color: #EABF49;
+    border: 2px solid #E78F05;
+    border-radius: 5px;
+}
+
+.conteudo-cardapio {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: 60px auto;
+}
+
+.conteudo-cardapio h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.conteudo-cardapio a {
+    margin: 60px auto;
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    background-color: #FFEFC2;
+    padding: 16px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #414141;
+}
 
 
 
@@ -161,17 +212,19 @@ hr {
         height: 20vh;
     }
     
-      /* Rodapé */
-      .flexFooter {
+    /* Footer */
+    .flexFooter {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-      }
+    }
     
-      #social {
+    #social {
         margin: 0;
-      }
-
+    }
+    
+    /* ------------------------------------------------------------------------ PAG 1 -------------------------------------------------------------------------- */
+    
     /* Section Sobre */
     .section-sobre {
         display: block;
@@ -203,6 +256,20 @@ hr {
     .images-section {
         height: 100px;
     }
-    
 
+    /* ------------------------------------------------------------------------ PAG 2 -------------------------------------------------------------------------- */
+
+    .imagem-principal {
+        background-image: url(/img/img-introducao2.jpg);
+        height: 40vh;
+    }
+
+    
+}
+
+@media (min-width: 576px) {
+    /* Estilos Header */
+    .nav-header {
+        margin-left: 51%;
+    }
 }
