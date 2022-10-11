@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/CaioBucciarelli/2emib-ac1)
 # 2emib-ac1
-Projeto de um sistema full stack
+Projeto de um site fictício para uma hamburgueria, site com front-end e back-end
 ## Alunos
 - ` Caio de Conti Bucciarelli `
 - Enzo Segatto Camilli Dias 
