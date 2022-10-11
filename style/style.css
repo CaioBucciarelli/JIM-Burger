@@ -162,8 +162,8 @@ hr {
 /* Section Cardápio */
 .section-cardapio {
     width: 760px;
-    height: 380px;
-    margin: 60px auto;
+    height: 400px;
+    margin: 104px auto;
     background-color: #EABF49;
     border: 2px solid #E78F05;
     border-radius: 5px;
@@ -192,7 +192,63 @@ hr {
     box-shadow: 3px 3px 5px #414141;
 }
 
+/* ------------------------------------------------------------------------ PAG 4 -------------------------------------------------------------------------- */
+.section-pedidos {
+    width: 960px;
+    height: 400px;
+    margin: 104px auto;
+    background-color: #EABF49;
+    border: 2px solid #E78F05;
+    border-radius: 5px;
+}
 
+.container-pedidos {
+    display: flex;
+    justify-content: space-around;
+    margin: 60px 0;
+}
+
+.conteudo-telefones {
+    text-align: center;
+}
+
+.telefones {
+    height: 136px;
+    margin: 60px auto;
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    background-color: #FFEFC2;
+    padding: 24px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #414141;
+}
+
+.telefones span {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.bi-telephone {
+    margin-right: 10px;
+}
+
+.conteudo-devices {
+    text-align: center;
+}
+
+.conteudo-devices img {
+    width: 136px;
+    height: 136px;
+    margin: 52px auto;
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    background-color: #FFEFC2;
+    padding: 24px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #414141;
+}
 
 
 /* ------------------------------------------------------------------ Media Quares ------------------------------------------------------------------------- */
@@ -204,12 +260,6 @@ hr {
     .nav-header {
         margin-top: 20px;
         margin-left: 20px;
-    }
-
-
-    .tamanho-slide {
-        width: 100%;
-        height: 20vh;
     }
     
     /* Footer */
@@ -223,8 +273,13 @@ hr {
         margin: 0;
     }
     
-    /* ------------------------------------------------------------------------ PAG 1 -------------------------------------------------------------------------- */
-    
+    /* ------------------------------------------------------------------------ PAG 1 --------------------------------------------------------------------------*/
+    /* Section Slide */
+    .tamanho-slide {
+        width: 100%;
+        height: 20vh;
+    }
+
     /* Section Sobre */
     .section-sobre {
         display: block;
@@ -251,19 +306,49 @@ hr {
     /* Section Images */
     .section-images {
         display: flex;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     .images-section {
-        height: 100px;
+        width: 120px;
+        height: 90px;
+        padding-left: 0;
+        padding-right: 2px;
     }
 
     /* ------------------------------------------------------------------------ PAG 2 -------------------------------------------------------------------------- */
 
     .imagem-principal {
         background-image: url(/img/img-introducao2.jpg);
-        height: 40vh;
+        height: 20vh;
     }
 
+    /* ------------------------------------------------------------------------ PAG 3 -------------------------------------------------------------------------- */
+
+    /* Section Cardápio */
+.section-cardapio {
+    width: 360px;
+    height: 195px;
+}
+
+.conteudo-cardapio {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+}
+
+.conteudo-cardapio h1 {
+    font-size: 16px;
+}
+
+.conteudo-cardapio a {
+    margin: 20px auto;
+    font-size: 16px;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
     
 }
 
@@ -271,5 +356,11 @@ hr {
     /* Estilos Header */
     .nav-header {
         margin-left: 51%;
+    }
+}
+
+@media (min-width: 1900px) {
+    .nav-header {
+        margin-left: 58%;
     }
 }
