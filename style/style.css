@@ -106,7 +106,7 @@ footer {
 
 /* Section Ifood */
 .bg-ifood {
-    background: url(/img/bg-ifood.png); 
+    background: url(../img/bg-ifood.png); 
 }
 
 .logo-ifood {
@@ -136,7 +136,7 @@ footer {
 /* ------------------------------------------------------------------------ PAG 2 -------------------------------------------------------------------------- */
 /* Section Image */
 .imagem-principal {
-    background-image: url(/img/img-introducao.jpg);
+    background-image: url(../img/img-introducao.jpg);
     height: 40vh;
 }
 
@@ -320,7 +320,7 @@ hr {
     /* ------------------------------------------------------------------------ PAG 2 -------------------------------------------------------------------------- */
 
     .imagem-principal {
-        background-image: url(/img/img-introducao2.jpg);
+        background-image: url(../img/img-introducao2.jpg);
         height: 20vh;
     }
 
