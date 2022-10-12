@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/CaioBucciarelli/2emib-ac1)
+
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -6,6 +7,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 # 2emib-ac1
 Projeto de um site fictício para uma hamburgueria, site com front-end e back-end
 ## Alunos
