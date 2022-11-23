@@ -12,3 +12,4 @@
 Projeto de um site fictício para uma hamburgueria, site com front-end e back-end
 ## Tema do projeto
 O tema será um site de 6 páginas para um restaurante fictício, o objetivo do site será com que o cliente possa conhecer um pouco de nosso restaurante e consiga saber o que tem no cardápio a disposição!
+## Imagens do Projeto
