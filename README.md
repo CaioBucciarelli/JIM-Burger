@@ -11,7 +11,7 @@
 # 2emib-ac1
 Projeto de um site fictício para uma hamburgueria, site com front-end e back-end
 ## Tema do projeto
-O tema será um site de 6 páginas para um restaurante fictício, o objetivo do site será com que o cliente possa conhecer um pouco de nosso restaurante e consiga saber o que tem no cardápio a disposição!
+O tema do projeto é um site institucional para uma hamburgueria fictícia, o objetivo do site em sí é conseguir mostrar para os clientes todo o nosso cardápio por meio de um pdf e mostrar a história completa do restaurante! No site mostra também os ingredientes e forma de preparo!
 # Imagens do Projeto
 ## Primeira Página
 ![img-1](https://user-images.githubusercontent.com/82839819/203558774-53e52bf5-2a0e-4451-adb4-522e7b832c56.png)
