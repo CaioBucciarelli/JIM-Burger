@@ -23,3 +23,7 @@ O tema será um site de 6 páginas para um restaurante fictício, o objetivo do 
 ![img-5](https://user-images.githubusercontent.com/82839819/203559707-8b6cb117-7f30-4de5-a435-a793dcc202b4.png)
 
 ## Terceira Página
+![img-6](https://user-images.githubusercontent.com/82839819/203559832-877abbd9-9f58-4424-bc00-c5b9174ab80a.png)
+
+## Quarta Página
+![img-7](https://user-images.githubusercontent.com/82839819/203559922-d8888b0c-a0d6-4306-a3f2-5598dcbe4be2.png)
